@@ -1,0 +1,26 @@
+body{
+    background-color: whitesmoke;
+}
+
+Table thead tr th{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+Table tbody tr .center{
+    text-align: center;
+} 
+
+.contenedor{
+    max-width: 70%;
+    margin-left: 20%;
+}
+
+Table tbody tr .comment{
+    width: 70%;
+}
+
+.center{
+    text-align: center;
+}

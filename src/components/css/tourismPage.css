@@ -1,0 +1,33 @@
+body{
+    background-color: whitesmoke;
+}
+
+.imagen{
+    background-color: black;
+    width: 200px;
+    
+}
+
+
+Table thead tr th{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+Table tbody tr .center{
+    text-align: center;
+} 
+
+.contenedor{
+    max-width: 100%;
+    margin-left: 13%;
+}
+
+Table tbody tr .description{
+    width: 30%;
+}
+
+.center{
+    text-align: center;
+}
